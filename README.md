@@ -1,0 +1,1 @@
+# Yubico.NET.SDK.sln
